@@ -1,2 +1,2 @@
-# Repo desc.
-A practice repo for me to work on various ML topics.
+## Data
+This branch houses some of the public datasets used in the projects displayed in other branches.
