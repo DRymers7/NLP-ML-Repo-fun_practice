@@ -1,2 +1,2 @@
-# Repo desc.
-A practice repo for me to work on various ML topics.
+# NLP
+This branch houses practice projects relating to NLP topics. 
