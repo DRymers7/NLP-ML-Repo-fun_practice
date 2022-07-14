@@ -1,7 +1,7 @@
 # Welcome to my practice repository!
 
 ## Overview
-This is simply a practice repository for me to hone my skills in ML, neural networks, NLP, etc. during my career transition. All data used in these practice projects is public domain.
+This is simply a practice repository for me to hone my skills in ML, neural networks, NLP, etc. during my career transition. All datasets used in these practice projects are public domain.
 
 ## Layout
 Each subsection of projects are organized by branch. You can find some practice projects with NLP, neural networks, etc. simply by navigating to the corresponding branch.
